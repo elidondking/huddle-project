@@ -29,6 +29,9 @@ img.head{
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
     cursor: pointer;
 }
+.btn:hover{
+    color: blue;
+}
 .btn-primary{
     background-color: hsl(322, 100%, 66%);
     color: #fff;
